@@ -1,0 +1,18 @@
+.box1{
+    border: 2px solid yellowgreen;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 10px;
+}
+.box2{
+    border: 2px solid tomato;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 10px;
+}
+.box3{
+    border: 2px solid skyblue;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 10px;
+}
